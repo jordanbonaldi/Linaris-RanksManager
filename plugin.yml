@@ -1,0 +1,8 @@
+main: net.theuniverscraft.GradesManager.PluginMain
+name: GradesManager
+version: 0.1
+commands:
+  addgroup:
+    usage: /<command> <player> <group> <time in seconds>
+  addperm:
+    usage: /<command> <player> <perm> <time in seconds>
